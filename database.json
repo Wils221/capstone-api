@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Wil Hammond",
+            "email": "wil.hammond@gmail.com",
+            "isAdmin": true
+        },
+        {
+            "id": 1,
+            "fullName": "Jude Hammond",
+            "email": "jude@gmail.com",
+            "isAdmin": false
+        }
+    ],
+    "plants": [
+        {
+            "id":1,
+            "name": "Zinnia", 
+            "dateLastFed": "",
+            "sunSchedule": "",
+            "makePrivate": false,
+            "userId": 1,
+            "image": ""
+
+
+
+
+            
+        }
+    ]
+}
